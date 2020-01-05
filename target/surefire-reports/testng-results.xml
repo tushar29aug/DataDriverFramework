@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9405" started-at="2019-12-30T19:29:05Z" finished-at="2019-12-30T19:29:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9405" started-at="2019-12-30T19:29:05Z" finished-at="2019-12-30T19:29:15Z">
+      <class name="com.w2a.testcases.HomePageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.w2a.testcases.HomePageTest@527740a2]" name="initialize" is-config="true" duration-ms="5892" started-at="2019-12-30T19:29:06Z" finished-at="2019-12-30T19:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="searchOnGooglePage()[pri:0, instance:com.w2a.testcases.HomePageTest@527740a2]" name="searchOnGooglePage" duration-ms="2466" started-at="2019-12-30T19:29:11Z" finished-at="2019-12-30T19:29:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchOnGooglePage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.w2a.testcases.HomePageTest@527740a2]" name="close" is-config="true" duration-ms="1025" started-at="2019-12-30T19:29:14Z" finished-at="2019-12-30T19:29:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.w2a.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+00:21:35,000 DEBUG devpinoyLogger:24 - Prop file loaded
+00:21:37,668 DEBUG devpinoyLogger:29 - Browser Launched
+00:21:39,826  INFO devpinoyLogger:24 - Home Page Object Created
+00:21:42,012  INFO devpinoyLogger:31 - Browser Closed
